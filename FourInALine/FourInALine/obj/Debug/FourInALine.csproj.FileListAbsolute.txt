@@ -1,0 +1,9 @@
+c:\users\owner\documents\visual studio 2013\Projects\FourInALine\FourInALine\bin\Debug\FourInALine.exe.config
+C:\Users\owner\Documents\Visual Studio 2013\Projects\FourInALine\FourInALine\bin\Debug\FourInALine.exe
+C:\Users\owner\Documents\Visual Studio 2013\Projects\FourInALine\FourInALine\bin\Debug\FourInALine.pdb
+C:\Users\owner\Documents\Visual Studio 2013\Projects\FourInALine\FourInALine\obj\Debug\FourInALine.csprojResolveAssemblyReference.cache
+C:\Users\owner\Documents\Visual Studio 2013\Projects\FourInALine\FourInALine\obj\Debug\FourInALine.Form1.resources
+C:\Users\owner\Documents\Visual Studio 2013\Projects\FourInALine\FourInALine\obj\Debug\FourInALine.Properties.Resources.resources
+C:\Users\owner\Documents\Visual Studio 2013\Projects\FourInALine\FourInALine\obj\Debug\FourInALine.csproj.GenerateResource.Cache
+C:\Users\owner\Documents\Visual Studio 2013\Projects\FourInALine\FourInALine\obj\Debug\FourInALine.exe
+C:\Users\owner\Documents\Visual Studio 2013\Projects\FourInALine\FourInALine\obj\Debug\FourInALine.pdb

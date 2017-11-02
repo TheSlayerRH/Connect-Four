@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FourInALine", "FourInALine\FourInALine.csproj", "{2997C10E-3368-40E0-B90A-0D9BC9477790}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2997C10E-3368-40E0-B90A-0D9BC9477790}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2997C10E-3368-40E0-B90A-0D9BC9477790}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2997C10E-3368-40E0-B90A-0D9BC9477790}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2997C10E-3368-40E0-B90A-0D9BC9477790}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
